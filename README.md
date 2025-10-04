@@ -1,129 +1,109 @@
-🌸 TattvaRasa – The Event Planning Platform
+# 🌸 TattvaRasa – The Event Planning Platform
 
-TattvaRasa – Where Every Event Finds Its Essence.
+**TattvaRasa – Where Every Event Finds Its Essence.**
 Designed with human-centered principles, TattvaRasa focuses on memory, emotion, and aesthetics, empowering users to effortlessly create, manage, and relive unforgettable events.
 
-🌟 Key Features
-🏠 Home Page
+---
 
-Serves as the main entry point.
+## 🌟 Key Features
 
-Prominent Create Event button to start the planning journey.
+### 🏠 Home Page
 
-🎉 Create Event
+* Serves as the main entry point.
+* Prominent **Create Event** button to start the planning journey.
 
-Guided input flow for:
+### 🎉 Create Event
 
-Event Name
+* Guided input flow for:
 
-Event Type
+  * Event Name
+  * Event Type
+  * Date & Time
+  * Description
+  * Location
+* **Save Event** button confirms details and redirects to a confirmation screen.
 
-Date & Time
+### ✅ Event Created Page
 
-Description
+* Displays a success message.
+* Navigation options:
 
-Location
+  * 🔙 Back to Home
+  * 🎨 Create Mood Board
+  * 🗳️ Create Guest Polls
 
-Save Event button confirms details and redirects to a confirmation screen.
+### 🎨 Mood Board Creator
 
-✅ Event Created Page
+* Upload custom images or select from built-in templates.
+* Choose a color palette to define your event’s aesthetic.
+* Save your mood board as a visual guide for planning and styling.
+* (Fonts and theme keywords will be added in future updates.)
 
-Displays a success message.
+### ✨ AI-Powered Event Name Generator
 
-Navigation options:
+* Suggests elegant, whimsical event names.
+* Leverages mood board themes and keywords (upcoming).
+* Option to regenerate names until satisfied.
 
-🔙 Back to Home
+### 🗳️ Guest Polls (Pre & Post Event)
 
-🎨 Create Mood Board
+* Create engaging polls for your attendees:
 
-🗳️ Create Guest Polls
+  * 🎭 Theme selection
+  * 🍱 Food & music preferences
+  * 📊 Post-event feedback
 
-🎨 Mood Board Creator
+### 🧑‍💻 Tech Stack
 
-Upload custom images or select from built-in templates.
+* **Frontend:** HTML, CSS, JavaScript (Tailwind CSS, Animations)
+* **Backend (Upcoming):** Node.js / Firebase Functions
+* **Database (Upcoming):** Firebase Firestore
+* **Storage (Upcoming):** Firebase Cloud Storage
+* **Authentication (Upcoming):** Firebase Auth
+* **AI/ML Model (Upcoming):** Python (Sentiment Analysis via Google Colab)
 
-Choose a color palette to define your event’s aesthetic.
+---
 
-Save your mood board as a visual guide for planning and styling.
+## 📚 Research Background
 
-(Fonts and theme keywords will be added in future updates.)
+* Inspired by studies on user interaction in event planning platforms.
+* Leveraging Firebase’s real-time, scalable ecosystem.
+* Focused on sentiment analysis for actionable feedback.
 
-✨ AI-Powered Event Name Generator
+---
 
-Suggests elegant, whimsical event names.
+## 🚧 Coming Soon
 
-Leverages mood board themes and keywords (upcoming).
+### 🧠 Sentiment Analysis Engine
 
-Option to regenerate names until satisfied.
+* Processes guest feedback using a machine learning model.
+* Classifies sentiments as:
 
-🗳️ Guest Polls (Pre & Post Event)
+  * ✅ Positive (1)
+  * ❌ Negative (0)
+* Visual dashboards reveal emotional impact.
 
-Create engaging polls for your attendees:
+### 📸 Shared Album with QR Access
 
-🎭 Theme selection
+* Generate a QR code linked to a secure cloud album.
+* Guests can upload and browse event photos.
+* Powered by Firebase Cloud Storage.
 
-🍱 Food & music preferences
+### 🕰️ Memory Lane
 
-📊 Post-event feedback
+* Curated timeline of all past events.
+* Includes saved themes, galleries, and key moments.
+* Tailored to each user or organizer.
 
-🧑‍💻 Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript (Tailwind CSS, Animations)
+## 👩‍💻 Contributors
 
-Backend (Upcoming): Node.js / Firebase Functions
+* **Bukka Charitha Reddy** — UI/UX Design & Development
+* Special thanks to OpenAI, Firebase, and the creative dev community.
 
-Database (Upcoming): Firebase Firestore
+---
 
-Storage (Upcoming): Firebase Cloud Storage
+## 📬 Contact
 
-Authentication (Upcoming): Firebase Auth
-
-AI/ML Model (Upcoming): Python (Sentiment Analysis via Google Colab)
-
-📚 Research Background
-
-Inspired by studies on user interaction in event planning platforms.
-
-Leveraging Firebase’s real-time, scalable ecosystem.
-
-Focused on sentiment analysis for actionable feedback.
-
-🚧 Coming Soon
-🧠 Sentiment Analysis Engine
-
-Processes guest feedback using a machine learning model.
-
-Classifies sentiments as:
-
-✅ Positive (1)
-
-❌ Negative (0)
-
-Visual dashboards reveal emotional impact.
-
-📸 Shared Album with QR Access
-
-Generate a QR code linked to a secure cloud album.
-
-Guests can upload and browse event photos.
-
-Powered by Firebase Cloud Storage.
-
-🕰️ Memory Lane
-
-Curated timeline of all past events.
-
-Includes saved themes, galleries, and key moments.
-
-Tailored to each user or organizer.
-
-👩‍💻 Contributors
-
-Bukka Charitha Reddy — UI/UX Design & Development
-
-Special thanks to OpenAI, Firebase, and the creative dev community.
-
-📬 Contact
-
-📧 charithareddybukka@gmail.com
- — For feedback, collaborations, or event magic ideas 🌷
+* 📧 [charithareddybukka@gmail.com](mailto:charithareddybukka@gmail.com) — For feedback, collaborations, or event magic ideas 🌷
